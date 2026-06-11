@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-bindasudarsannagasuru%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:bindasudarsannagasuru@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Nellore%2C%20India-green?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=Nellore,India)
-[![Phone](https://img.shields.io/badge/Phone-9494796796-orange?style=flat-square&logo=whatsapp)](tel:+919494796796)
+[![Phone]([https://img.shields.io/badge/Phone-9494796796-orange?style=flat-square&logo=whatsapp)](https://wa.me/qr/7NK6WIEED5XVG1)](tel:+919494796796)
 
 </div>
 
