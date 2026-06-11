@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Binda Sudarsan Nagasuru 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Binda%20Sudarsan%20Nagasuru&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
-### AI Engineer · ML Enthusiast · Problem Solver
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&multiline=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+ML+Engineer+in+Progress+%F0%9F%9A%80;Agentic+Apps+%7C+Automation+%7C+Data+AI;B.Tech+CSE+(AI+%26+ML)+%40+NEC+Gudur)](https://git.io/typing-svg)
 
-*B.Tech CSE (AI & ML) student passionate about building intelligent, scalable systems that solve real-world problems.*
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-bindasudarsannagasuru%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:bindasudarsannagasuru@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Nellore%2C%20India-green?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=Nellore,India)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919494796796)
+[![Email](https://img.shields.io/badge/Gmail-bindasudarsannagasuru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bindasudarsannagasuru@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7NK6WIEED5XVG1)
+[![Location](https://img.shields.io/badge/📍-Nellore%2C%20India-0078D4?style=for-the-badge)](https://maps.google.com/?q=Nellore,India)
 
 </div>
 
@@ -16,76 +16,119 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a motivated Computer Science student specializing in **Artificial Intelligence & Machine Learning** at Narayana Engineering College, Gudur. I thrive at the intersection of data and intelligence — designing agentic applications, automation pipelines, and AI-driven web solutions that scale.
-
-- 🔭 Currently working on **AI/ML projects** and agentic applications
-- 🌱 Learning **advanced deep learning**, LLM integration, and scalable AI systems
-- 🏆 Active participant in **hackathons** and technical challenges
-- ⚡ Driven by an **agile mindset** and a love for self-learning
+```python
+class BindaSudarsan:
+    name       = "Binda Sudarsan Nagasuru"
+    role       = "AI Engineer (in progress)"
+    education  = "B.Tech CSE (AI & ML) @ Narayana Engineering College, Gudur"
+    location   = "Nellore, India 🇮🇳"
+    passions   = ["Agentic AI", "Automation Pipelines", "ML Systems", "Hackathons"]
+    currently  = ["Advanced Deep Learning", "LLM Integration", "Scalable AI Systems"]
+    fun_fact   = "I debug code the same way I solve puzzles — one piece at a time 🧩"
+```
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Data & AI Intern — Indium Software (India) Pvt. Ltd. *(2026)*
+<table>
+<tr>
+<td width="60">
+<img src="https://img.shields.io/badge/2026-brightgreen?style=flat-square" />
+</td>
+<td>
 
-- Completed an **8-week remote internship** in the Data & AI division
-- Applied **data analytics and AI concepts** to mentor-assigned, project-based tasks
-- Collaborated cross-functionally while meeting tight timelines and performance expectations
-- Gained hands-on exposure to **industry workflows**, data-driven decision-making, and problem-solving
+### 🏢 Data & AI Intern — Indium Software (India) Pvt. Ltd.
+
+![Duration](https://img.shields.io/badge/Duration-8%20Weeks-blue?style=flat-square)
+![Mode](https://img.shields.io/badge/Mode-Remote-purple?style=flat-square)
+![Division](https://img.shields.io/badge/Division-Data%20%26%20AI-teal?style=flat-square)
+
+- 🔬 Completed hands-on assignments in **Data Analytics & AI**
+- 📊 Applied AI concepts to **mentor-assigned, project-based deliverables**
+- 🤝 Collaborated remotely while meeting project timelines
+- 💡 Gained exposure to **industry workflows** and data-driven decision-making
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### 📚 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Libraries & Frameworks**
+### 🔧 Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-**Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Domains**
-
-`Data Analytics` · `Machine Learning` · `Artificial Intelligence` · `Data Visualization`
+### 🌐 Domains
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0052CC?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00BFA5?style=flat-square)
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|---|---|---|
-| B.Tech — CSE (AI & ML) | Narayana Engineering College, Gudur | 2023 – 2027 |
-| Intermediate — MPC | Narayana Junior College, Gudur | 2021 – 2023 |
-| SSC | Sri Chaitanya High School, Gudur | 2020 – 2021 |
+```
+🎓 B.Tech — CSE (AI & ML)
+   📍 Narayana Engineering College, Gudur          [2023 – 2027]
+   ─────────────────────────────────────────────────────────────
+🏫 Intermediate — MPC
+   📍 Narayana Junior College, Gudur               [2021 – 2023]
+   ─────────────────────────────────────────────────────────────
+🏫 SSC
+   📍 Sri Chaitanya High School, Gudur             [2020 – 2021]
+```
 
 ---
 
 ## 🧠 Soft Skills
 
-`Problem Solving` · `Debugging` · `Team Collaboration` · `Critical Thinking`
-`Agile Mindset` · `Adaptability` · `Attention to Detail` · `Leadership` · `Self-Learning`
+| 🧩 Problem Solving | 🐛 Debugging | 🤝 Team Collaboration | 💡 Critical Thinking |
+|---|---|---|---|
+| 🔄 Agile Mindset | 🎯 Attention to Detail | 🌱 Self-Learning | 👑 Leadership |
 
 ---
 
+## 📊 GitHub Stats
 
 <div align="center">
 
-*"Leveraging emerging technologies to build impactful, efficient, and intelligent systems."*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=8B5CF6&text_color=c9d1d9)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4AA&fire=8B5CF6&currStreakLabel=00D4AA)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote
+
+> *"Leveraging emerging technologies to build impactful, efficient, and intelligent systems that solve problems on scale."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
