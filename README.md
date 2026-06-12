@@ -107,7 +107,7 @@ class BindaSudarsan:
 
 ### 💬 Quote
 
-> *"Leveraging emerging technologies to build impactful, efficient, and intelligent systems that solve problems on scale."*
+> *"8888888"*
 
 <br/>
 
